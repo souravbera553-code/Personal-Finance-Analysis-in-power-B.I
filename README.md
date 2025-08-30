@@ -32,7 +32,7 @@ It helps track **income, expenses, savings, and spending patterns** with clear i
 - **GitHub** (Version Control & Portfolio)  
 
 ## 👤 Author
-- **Sourav Bera** — [GitHub Profile](https://github.com/souravbera)  
+- **Sourav Bera** — [GitHub Profile](https://github.com/souravbera553-code)  
 - 📧 Email: souravbera553@gmail.com 
 
 
